@@ -1,1 +1,26 @@
 Aquí estamos siguiendo los pasos que hizo el profe en clases
+
+Este documento se encontraba en GitHub y se sincronizó con VSCode con el icono de sincronizar en la parte inferior izquierda
+Al momento de realizar cambios en este archivo desde VSCode, en la ventana aparecera un circulo donde va la X
+Esto para señalar que hay cambios sin guardar.
+Se puede guardar con Ctrl+S 
+Al realizar dicho cambio, aparecera un simbolo de M que significa "modificado" y que hace falta sincronizarlo con GitHub
+
+En el contro de cambio de códigos fuente (Simbolo de raiz) aparecen el total de cambios aun no sincronizados con GitHub
+
+En el nombre de mi repositorio, aparecen los icónos de "Crear un nuevo archivo" o "Crear una nueva carpeta"
+Las carpetas no significan cambios, ya que no ocupan espacios
+Los archivo sí
+También se pueden agregar carpetas o archivos con el botón secundario
+
+Para dar acceso a un repositorio privado, debe ser de forma explicita a través de GitHub
+--> se hace desde setting--> Collaborators 
+
+Cuando un archivo posee una U en color verde, significa que es un archivo completamente nuevo
+Cuando aparece una M en color amarillo, es porque posee cambios que se deben registrar
+
+Para registrar los cambios, se debe dar en el botón e "+" en la rama, con el fin de que se agreguen al cambio
+con el botón "-" se eliminan de la lista de cambio
+
+
+Se debe dar en confirmar finalmente.
